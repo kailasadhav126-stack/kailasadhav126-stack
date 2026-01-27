@@ -56,6 +56,8 @@ Passionate about automating infrastructure, building CI/CD pipelines, and managi
 
 ---
 
+
+// ongoing this projects 
 ## 📂 Projects
 
 ### 🔹 CI/CD Pipeline with Jenkins
